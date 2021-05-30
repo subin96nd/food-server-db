@@ -1,0 +1,292 @@
+{
+  "tea": [
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "id": 1,
+      "price": "45.000₫"
+    },
+    {
+      "name": "Green Tea",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try9-jpeg.jpg?v=1541044163987",
+      "description": "lorem",
+      "price": "30.000₫",
+      "id": 2
+    },
+    {
+      "name": "Sample Product",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try19-jpeg.jpg?v=1541047509967",
+      "description": "lorem",
+      "price": "20.000₫",
+      "id": 3
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "id": 4,
+      "price": "45.000₫"
+    },
+    {
+      "name": "Green Tea",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try9-jpeg.jpg?v=1541044163987",
+      "description": "lorem",
+      "price": "30.000₫",
+      "id": 5
+    },
+    {
+      "name": "Sample Product",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try19-jpeg.jpg?v=1541047509967",
+      "description": "lorem",
+      "price": "20.000₫",
+      "id": 6
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "id": 7,
+      "price": "45.000₫"
+    },
+    {
+      "name": "Green Tea",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try9-jpeg.jpg?v=1541044163987",
+      "description": "lorem",
+      "price": "30.000₫",
+      "id": 8
+    }
+  ],
+  "cake": [
+    {
+      "name": "Chocolate Iced",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try21-jpeg.jpg?v=1541047539703",
+      "description": "Doughnut (hay gọi là donut trong tiếng Mỹ) là một loại bánh ngọt rán hoặc nướng để ăn tráng miệng hoặc ăn vặt. Đây là loại bánh rất nổi tiếng và phổ biến ở nhiều đất nước phương Tây, có thể được mua trong cửa hàng hoặc tự làm ở nhà. Thường bánh có dạng hình vòng, nhưng cũng có thể có hình tròn nhỏ nhồi nhân bên trong. Bánh thường được phủ nhiều loại kem, socola và hạt đường trang trí.\n\nHai loại donut thường thấy là donut hình vòng và donut tròn nhồi nhân mứt, thạch, kem trứng, sô cô la bên trong. Hầu hết các bánh donut thường được trang trí đường bông tuyết, kem, sô cô la, dừa vụn hoặc thậm chí áo đường hay dừa vụn lên toàn bộ bánh.",
+      "price": "120.000₫",
+      "id": 9
+    },
+    {
+      "name": "Honey Wheat",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try17-jpeg.jpg?v=1541047432060",
+      "description": "Những chiếc bánh donut với nhân socola và vani thông thường là bạn thân của hầu hết người dân Mỹ.",
+      "price": "100.000₫",
+      "id": 10
+    },
+    {
+      "name": "Sweet Potato Tart",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try12-jpeg.jpg?v=1542253163927",
+      "description": "Mùi hương vanilla thơm lừng từ những chiếc bánh cookies thật sự làm giảm sự căng thẳng, xoa dịu thần kinh. Các nhà nghiên cứu thuộc trường đại học Duke, Hoa Kỳ cho biết, chất béo có trong các loại bánh nướng này kích thích não tiết ra nhiều hơn endorphins và seretonins, mang lại một tâm trạng hưng phấn, vui vẻ khó tả.",
+      "price": "110.000₫",
+      "id": 11
+    },
+    {
+      "name": "Strawberry Cake",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try4-jpeg.jpg?v=1541043991477",
+      "description": "Ở Bắc Mỹ, người ta gọi giống dâu này là Chiloensis trong khi người châu Âu gọi nó là Ananaserdbeere.\n\nBạn có thể ăn tráng miệng dâu tây trắng hoặc ăn kèm với sữa chua. Có thể làm salad hoa quả hoặc sinh tố. Ngoài ra có thể thái nhỏ để bày lên bánh nướng.\n\nDâu tây trắng rất giàu chất chống oxy hóa. Nó giúp làm giảm stress trong cơ thể và ngăn ngừa chất oxy hóa tiến triển thành ung thư hay bệnh tim mạch. Ăn một bát dâu tây mỗi ngày sẽ tăng cường chất chống oxy hóa cho cơ thể. Ngoài ra, dâu tây trắng còn giúp cải thiện sức khỏe tổng thể, ngăn ngừa bệnh tật.",
+      "price": "110.000₫",
+      "id": 12
+    },
+    {
+      "name": "Lamington",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try2-jpeg.jpg?v=1541043582673",
+      "description": "Bánh sinh nhật hay bánh gatô là một loại món ăn thường có ý nghĩa quan trọng và đặc biệt nhất trong dịp kỷ niệm sinh nhật của người dùng. Đây là một món ăn ngọt dạng cốt như bánh bông lan xốp và được phủ lên một lớp kem dày vừa để trang trí vừa để tăng thêm hương vị cho bánh. Bánh sinh nhật là loại bánh được trang trí công phu và phổ biến nhất ở trên thế giới.\n\nBánh sinh nhật thường có dạng hình tròn nhưng vào những dịp đặc biệt cũng như khi người thợ muốn cố công tạo nên chiếc bánh kì lạ thì hình dáng của bánh cũng sẽ được thay đổi y như các cách trang trí vậy.\n\nCó hai dạng bánh sinh nhật dễ gặp nhất là dạng hình tròn và hình vuông. Bánh sinh nhật hình vuông chính là tiền thân của bánh cưới sau này. Nó thường được trang trí dạng nhã nhặn màu trắng, nhiều tầng là các hình vuông theo thứ tự nhỏ dần được xếp chồng cân đối nhau. Thường bánh loại này sẽ có dây ruy băng trang trí vòng quanh thành bánh và được cô dâu chú rể cùng cầm dao cắt bánh trong tiếng mở rượu sâm banh.",
+      "price": "130.000₫",
+      "id": 13
+    },
+    {
+      "name": "Chocolate Iced",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try21-jpeg.jpg?v=1541047539703",
+      "description": "Doughnut (hay gọi là donut trong tiếng Mỹ) là một loại bánh ngọt rán hoặc nướng để ăn tráng miệng hoặc ăn vặt. Đây là loại bánh rất nổi tiếng và phổ biến ở nhiều đất nước phương Tây, có thể được mua trong cửa hàng hoặc tự làm ở nhà. Thường bánh có dạng hình vòng, nhưng cũng có thể có hình tròn nhỏ nhồi nhân bên trong. Bánh thường được phủ nhiều loại kem, socola và hạt đường trang trí.\n\nHai loại donut thường thấy là donut hình vòng và donut tròn nhồi nhân mứt, thạch, kem trứng, sô cô la bên trong. Hầu hết các bánh donut thường được trang trí đường bông tuyết, kem, sô cô la, dừa vụn hoặc thậm chí áo đường hay dừa vụn lên toàn bộ bánh.",
+      "price": "120.000₫",
+      "id": 14
+    },
+    {
+      "name": "Honey Wheat",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try17-jpeg.jpg?v=1541047432060",
+      "description": "Những chiếc bánh donut với nhân socola và vani thông thường là bạn thân của hầu hết người dân Mỹ.",
+      "price": "100.000₫",
+      "id": 15
+    },
+    {
+      "name": "Sweet Potato Tart",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try12-jpeg.jpg?v=1542253163927",
+      "description": "Mùi hương vanilla thơm lừng từ những chiếc bánh cookies thật sự làm giảm sự căng thẳng, xoa dịu thần kinh. Các nhà nghiên cứu thuộc trường đại học Duke, Hoa Kỳ cho biết, chất béo có trong các loại bánh nướng này kích thích não tiết ra nhiều hơn endorphins và seretonins, mang lại một tâm trạng hưng phấn, vui vẻ khó tả.",
+      "price": "110.000₫",
+      "id": 16
+    }
+  ],
+  "cream": [
+    {
+      "name": "Fruit Cream Puff",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try13.jpg?v=1541044259573",
+      "description": "Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.\n\nTrái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.\n\n",
+      "price": "150.000₫",
+      "id": 17
+    },
+    {
+      "name": "Dark Chocolate",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try11-jpeg.jpg?v=1541044195953",
+      "description": "lorem",
+      "price": "130.000₫",
+      "id": 18
+    },
+    {
+      "name": "Rare Cheese",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/pexels-photo-315707-jpeg.jpg?v=1541058880047",
+      "description": "lorem",
+      "price": "30.000₫",
+      "id": 19
+    },
+    {
+      "name": "Fruit Cream Puff",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try13.jpg?v=1541044259573",
+      "description": "Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.\n\nTrái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.\n\n",
+      "price": "150.000₫",
+      "id": 20
+    },
+    {
+      "name": "Dark Chocolate",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try11-jpeg.jpg?v=1541044195953",
+      "description": "lorem",
+      "price": "130.000₫",
+      "id": 21
+    },
+    {
+      "name": "Rare Cheese",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/pexels-photo-315707-jpeg.jpg?v=1541058880047",
+      "description": "lorem",
+      "price": "30.000₫",
+      "id": 22
+    },
+    {
+      "name": "Fruit Cream Puff",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try13.jpg?v=1541044259573",
+      "description": "Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.\n\nTrái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.\n\n",
+      "price": "150.000₫",
+      "id": 23
+    },
+    {
+      "name": "Dark Chocolate",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try11-jpeg.jpg?v=1541044195953",
+      "description": "lorem",
+      "price": "130.000₫",
+      "id": 24
+    }
+  ],
+  "coffe": [
+    {
+      "name": "Espresso Con Panna",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try15-jpeg.jpg?v=1541047354220",
+      "description": "Được bắt nguồn từ nước Ý, Espresso còn có nghĩa là “một cách tức khắc” - tức là loại café có thể phục vụ cho khách hàng ngay lập tức và bắt đầu xuất hiện vào khoảng những năm 1930. Ngày nay, người ta đếm có khoảng ít nhất 10 loại café được bắt nguồn từ Espresso được phổ biến và ưa chuộng ở nhiều nước trên thế giới.\n\nĐể có được một tách Espresso “chính hiệu” thì người ta phải rang những hạt café sẫm màu rồi xay rất nhuyễn, sau đó được pha chế bằng cách dùng nước nóng nén dưới áp suất cao. Nhờ vậy mà một tách Espresso sẽ có vị rất đậm và trên mặt có một lớp bọt màu nâu còn gọi là Crema rất thơm mà không đắng ngắt. Có kha khá nhiều những “tranh cãi” nảy lửa về phương thức làm ra một tách Espresso “tuyệt hảo” nhất, người thì nói rằng nguyên liệu cần phải có sự pha chế theo tỉ lệ 60% là café Arabica và 40% là Robusta, người thì lại “cương quyết” cho rằng chỉ có một tách Espresso với 100% là hạt café Arabica mới là “số dzách” cơ đấy. ",
+      "price": "130.000₫",
+      "id": 25
+    },
+    {
+      "name": "Cà phê Cappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try6-jpeg.jpg?v=1541044060163",
+      "description": "Một tách cà phê này gồm có 3 phần là: cà phê Espresso, sữa nóng và bọt sữa và thường được chia rất đều nhau. Tuy nhiên, tùy vào nơi pha chế mà lượng Espresso cũng khác nhau. Có nơi để nguyên Espresso đậm đặc nhưng lại có nơi pha loãng Espresso cùng với lượng nước gấp đôi. Và để hoàn thiện tách Cappucino thì không thể không nhắc đến “nghệ thuật vẽ” trên mặt lớp bọt sữa ra các hình ảnh khác nhau để tăng thêm độ hấp dẫn.",
+      "price": "100.000₫",
+      "id": 26
+    },
+    {
+      "name": "Espresso Con Panna",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try15-jpeg.jpg?v=1541047354220",
+      "description": "Được bắt nguồn từ nước Ý, Espresso còn có nghĩa là “một cách tức khắc” - tức là loại café có thể phục vụ cho khách hàng ngay lập tức và bắt đầu xuất hiện vào khoảng những năm 1930. Ngày nay, người ta đếm có khoảng ít nhất 10 loại café được bắt nguồn từ Espresso được phổ biến và ưa chuộng ở nhiều nước trên thế giới.\n\nĐể có được một tách Espresso “chính hiệu” thì người ta phải rang những hạt café sẫm màu rồi xay rất nhuyễn, sau đó được pha chế bằng cách dùng nước nóng nén dưới áp suất cao. Nhờ vậy mà một tách Espresso sẽ có vị rất đậm và trên mặt có một lớp bọt màu nâu còn gọi là Crema rất thơm mà không đắng ngắt. Có kha khá nhiều những “tranh cãi” nảy lửa về phương thức làm ra một tách Espresso “tuyệt hảo” nhất, người thì nói rằng nguyên liệu cần phải có sự pha chế theo tỉ lệ 60% là café Arabica và 40% là Robusta, người thì lại “cương quyết” cho rằng chỉ có một tách Espresso với 100% là hạt café Arabica mới là “số dzách” cơ đấy. ",
+      "price": "130.000₫",
+      "id": 27
+    },
+    {
+      "name": "Cà phê Cappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try6-jpeg.jpg?v=1541044060163",
+      "description": "Một tách cà phê này gồm có 3 phần là: cà phê Espresso, sữa nóng và bọt sữa và thường được chia rất đều nhau. Tuy nhiên, tùy vào nơi pha chế mà lượng Espresso cũng khác nhau. Có nơi để nguyên Espresso đậm đặc nhưng lại có nơi pha loãng Espresso cùng với lượng nước gấp đôi. Và để hoàn thiện tách Cappucino thì không thể không nhắc đến “nghệ thuật vẽ” trên mặt lớp bọt sữa ra các hình ảnh khác nhau để tăng thêm độ hấp dẫn.",
+      "price": "100.000₫",
+      "id": 28
+    },
+    {
+      "name": "Espresso Con Panna",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try15-jpeg.jpg?v=1541047354220",
+      "description": "Được bắt nguồn từ nước Ý, Espresso còn có nghĩa là “một cách tức khắc” - tức là loại café có thể phục vụ cho khách hàng ngay lập tức và bắt đầu xuất hiện vào khoảng những năm 1930. Ngày nay, người ta đếm có khoảng ít nhất 10 loại café được bắt nguồn từ Espresso được phổ biến và ưa chuộng ở nhiều nước trên thế giới.\n\nĐể có được một tách Espresso “chính hiệu” thì người ta phải rang những hạt café sẫm màu rồi xay rất nhuyễn, sau đó được pha chế bằng cách dùng nước nóng nén dưới áp suất cao. Nhờ vậy mà một tách Espresso sẽ có vị rất đậm và trên mặt có một lớp bọt màu nâu còn gọi là Crema rất thơm mà không đắng ngắt. Có kha khá nhiều những “tranh cãi” nảy lửa về phương thức làm ra một tách Espresso “tuyệt hảo” nhất, người thì nói rằng nguyên liệu cần phải có sự pha chế theo tỉ lệ 60% là café Arabica và 40% là Robusta, người thì lại “cương quyết” cho rằng chỉ có một tách Espresso với 100% là hạt café Arabica mới là “số dzách” cơ đấy. ",
+      "price": "130.000₫",
+      "id": 29
+    },
+    {
+      "name": "Cà phê Cappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try6-jpeg.jpg?v=1541044060163",
+      "description": "Một tách cà phê này gồm có 3 phần là: cà phê Espresso, sữa nóng và bọt sữa và thường được chia rất đều nhau. Tuy nhiên, tùy vào nơi pha chế mà lượng Espresso cũng khác nhau. Có nơi để nguyên Espresso đậm đặc nhưng lại có nơi pha loãng Espresso cùng với lượng nước gấp đôi. Và để hoàn thiện tách Cappucino thì không thể không nhắc đến “nghệ thuật vẽ” trên mặt lớp bọt sữa ra các hình ảnh khác nhau để tăng thêm độ hấp dẫn.",
+      "price": "100.000₫",
+      "id": 30
+    },
+    {
+      "name": "Espresso Con Panna",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try15-jpeg.jpg?v=1541047354220",
+      "description": "Được bắt nguồn từ nước Ý, Espresso còn có nghĩa là “một cách tức khắc” - tức là loại café có thể phục vụ cho khách hàng ngay lập tức và bắt đầu xuất hiện vào khoảng những năm 1930. Ngày nay, người ta đếm có khoảng ít nhất 10 loại café được bắt nguồn từ Espresso được phổ biến và ưa chuộng ở nhiều nước trên thế giới.\n\nĐể có được một tách Espresso “chính hiệu” thì người ta phải rang những hạt café sẫm màu rồi xay rất nhuyễn, sau đó được pha chế bằng cách dùng nước nóng nén dưới áp suất cao. Nhờ vậy mà một tách Espresso sẽ có vị rất đậm và trên mặt có một lớp bọt màu nâu còn gọi là Crema rất thơm mà không đắng ngắt. Có kha khá nhiều những “tranh cãi” nảy lửa về phương thức làm ra một tách Espresso “tuyệt hảo” nhất, người thì nói rằng nguyên liệu cần phải có sự pha chế theo tỉ lệ 60% là café Arabica và 40% là Robusta, người thì lại “cương quyết” cho rằng chỉ có một tách Espresso với 100% là hạt café Arabica mới là “số dzách” cơ đấy. ",
+      "price": "130.000₫",
+      "id": 31
+    },
+    {
+      "name": "Cà phê Cappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try6-jpeg.jpg?v=1541044060163",
+      "description": "Một tách cà phê này gồm có 3 phần là: cà phê Espresso, sữa nóng và bọt sữa và thường được chia rất đều nhau. Tuy nhiên, tùy vào nơi pha chế mà lượng Espresso cũng khác nhau. Có nơi để nguyên Espresso đậm đặc nhưng lại có nơi pha loãng Espresso cùng với lượng nước gấp đôi. Và để hoàn thiện tách Cappucino thì không thể không nhắc đến “nghệ thuật vẽ” trên mặt lớp bọt sữa ra các hình ảnh khác nhau để tăng thêm độ hấp dẫn.",
+      "price": "100.000₫",
+      "id": 32
+    }
+  ],
+  "drink": [
+    {
+      "name": "Strawberry Frappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try16-jpeg.jpg?v=1541047399773",
+      "description": "Dâu tây là loại trái cây được nhiều người ưa thích, không chỉ được sử dụng để làm bánh, mà dâu tây còn dùng nước ép uống vô cùng tuyệt vời. Với nguồn vitamin C dồi dào nước ép dâu tây không chỉ thơm ngon, đẹp da mà còn có nhiều tác dụng đối với sức khỏe.\n\nĐặc điểm của quả dâu tây có màu đỏ tươi, bên trong trái dâu tây mọng nước với mùi thơm đặt trung và mùi vị chua ngọt đặt biệt của mình chắc chắn là quả dâu tây chứa rất nhiều chất dinh dưỡng. Cụ thể bao gồm rất giàu vitamin C, vitamin A, vitamin B9. Các khoáng chất thiết yếu như kali, mangan, phốt pho. Và các chất dinh dưỡng gồm protein, carbonhydrate, hàm lượng đường, chất xơ tự nhiên, chất béo, chất bão hòa… Và thành phần Omega3, Omega6 cũng chứa một lượng đáng kể trong quả dâu tây.\n\nTrong quả dâu tây cũng được timg thấy các hợp chấy thực vật khác có trong quả dâu tây là các chống oxy hóa gồm có chất Pelargonidin là hợp chất chủ yếu tạo nên màu sắc của quả dâu tây. Axit ellagic là một trong những chất chống oxy hóa chiếm hàm lượng cao trong quả dâu tây, chất này giúp làn da thêm sức đề kháng ngăn ngừa quá trình lão hóa da. Chất ellagitannin khi hấp thu vào cơ thể sẽ chuyển hóa thành ellagic trong đường ruột có tác dụng rất tốt với những bệnh liên quan về đường ruột…",
+      "price": "150.000₫",
+      "id": 33
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "price": "100.000₫",
+      "id": 34
+    },
+    {
+      "name": "Strawberry Frappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try16-jpeg.jpg?v=1541047399773",
+      "description": "Dâu tây là loại trái cây được nhiều người ưa thích, không chỉ được sử dụng để làm bánh, mà dâu tây còn dùng nước ép uống vô cùng tuyệt vời. Với nguồn vitamin C dồi dào nước ép dâu tây không chỉ thơm ngon, đẹp da mà còn có nhiều tác dụng đối với sức khỏe.\n\nĐặc điểm của quả dâu tây có màu đỏ tươi, bên trong trái dâu tây mọng nước với mùi thơm đặt trung và mùi vị chua ngọt đặt biệt của mình chắc chắn là quả dâu tây chứa rất nhiều chất dinh dưỡng. Cụ thể bao gồm rất giàu vitamin C, vitamin A, vitamin B9. Các khoáng chất thiết yếu như kali, mangan, phốt pho. Và các chất dinh dưỡng gồm protein, carbonhydrate, hàm lượng đường, chất xơ tự nhiên, chất béo, chất bão hòa… Và thành phần Omega3, Omega6 cũng chứa một lượng đáng kể trong quả dâu tây.\n\nTrong quả dâu tây cũng được timg thấy các hợp chấy thực vật khác có trong quả dâu tây là các chống oxy hóa gồm có chất Pelargonidin là hợp chất chủ yếu tạo nên màu sắc của quả dâu tây. Axit ellagic là một trong những chất chống oxy hóa chiếm hàm lượng cao trong quả dâu tây, chất này giúp làn da thêm sức đề kháng ngăn ngừa quá trình lão hóa da. Chất ellagitannin khi hấp thu vào cơ thể sẽ chuyển hóa thành ellagic trong đường ruột có tác dụng rất tốt với những bệnh liên quan về đường ruột…",
+      "price": "150.000₫",
+      "id": 35
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "price": "100.000₫",
+      "id": 36
+    },
+    {
+      "name": "Strawberry Frappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try16-jpeg.jpg?v=1541047399773",
+      "description": "Dâu tây là loại trái cây được nhiều người ưa thích, không chỉ được sử dụng để làm bánh, mà dâu tây còn dùng nước ép uống vô cùng tuyệt vời. Với nguồn vitamin C dồi dào nước ép dâu tây không chỉ thơm ngon, đẹp da mà còn có nhiều tác dụng đối với sức khỏe.\n\nĐặc điểm của quả dâu tây có màu đỏ tươi, bên trong trái dâu tây mọng nước với mùi thơm đặt trung và mùi vị chua ngọt đặt biệt của mình chắc chắn là quả dâu tây chứa rất nhiều chất dinh dưỡng. Cụ thể bao gồm rất giàu vitamin C, vitamin A, vitamin B9. Các khoáng chất thiết yếu như kali, mangan, phốt pho. Và các chất dinh dưỡng gồm protein, carbonhydrate, hàm lượng đường, chất xơ tự nhiên, chất béo, chất bão hòa… Và thành phần Omega3, Omega6 cũng chứa một lượng đáng kể trong quả dâu tây.\n\nTrong quả dâu tây cũng được timg thấy các hợp chấy thực vật khác có trong quả dâu tây là các chống oxy hóa gồm có chất Pelargonidin là hợp chất chủ yếu tạo nên màu sắc của quả dâu tây. Axit ellagic là một trong những chất chống oxy hóa chiếm hàm lượng cao trong quả dâu tây, chất này giúp làn da thêm sức đề kháng ngăn ngừa quá trình lão hóa da. Chất ellagitannin khi hấp thu vào cơ thể sẽ chuyển hóa thành ellagic trong đường ruột có tác dụng rất tốt với những bệnh liên quan về đường ruột…",
+      "price": "150.000₫",
+      "id": 37
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "price": "100.000₫",
+      "id": 38
+    },
+    {
+      "name": "Strawberry Frappuccino",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try16-jpeg.jpg?v=1541047399773",
+      "description": "Dâu tây là loại trái cây được nhiều người ưa thích, không chỉ được sử dụng để làm bánh, mà dâu tây còn dùng nước ép uống vô cùng tuyệt vời. Với nguồn vitamin C dồi dào nước ép dâu tây không chỉ thơm ngon, đẹp da mà còn có nhiều tác dụng đối với sức khỏe.\n\nĐặc điểm của quả dâu tây có màu đỏ tươi, bên trong trái dâu tây mọng nước với mùi thơm đặt trung và mùi vị chua ngọt đặt biệt của mình chắc chắn là quả dâu tây chứa rất nhiều chất dinh dưỡng. Cụ thể bao gồm rất giàu vitamin C, vitamin A, vitamin B9. Các khoáng chất thiết yếu như kali, mangan, phốt pho. Và các chất dinh dưỡng gồm protein, carbonhydrate, hàm lượng đường, chất xơ tự nhiên, chất béo, chất bão hòa… Và thành phần Omega3, Omega6 cũng chứa một lượng đáng kể trong quả dâu tây.\n\nTrong quả dâu tây cũng được timg thấy các hợp chấy thực vật khác có trong quả dâu tây là các chống oxy hóa gồm có chất Pelargonidin là hợp chất chủ yếu tạo nên màu sắc của quả dâu tây. Axit ellagic là một trong những chất chống oxy hóa chiếm hàm lượng cao trong quả dâu tây, chất này giúp làn da thêm sức đề kháng ngăn ngừa quá trình lão hóa da. Chất ellagitannin khi hấp thu vào cơ thể sẽ chuyển hóa thành ellagic trong đường ruột có tác dụng rất tốt với những bệnh liên quan về đường ruột…",
+      "price": "150.000₫",
+      "id": 39
+    },
+    {
+      "name": "Lemon juice",
+      "url": "https://bizweb.dktcdn.net/thumb/grande/100/332/765/products/try14-jpeg.jpg?v=1541044297257",
+      "description": "lorem",
+      "price": "100.000₫",
+      "id": 40
+    }
+  ]
+}
